@@ -1,0 +1,10 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          secret: SFRU/TKNnLyKcUEMyVxO82c5gatSHbvHBWYAlyQ90HI=
+
+logging:
+  level:
+    org.springframework.security: DEBUG
